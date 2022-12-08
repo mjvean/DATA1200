@@ -1,0 +1,37 @@
+Hand in info:
+
+It is sufficient that only one student in each group delivers the assignment.
+Please add all participating students to your Obligatory assignment group. 
+ 
+
+Mandatory assignment 1
+
+We expect you to deliver with high quality. The best thing you can do for quality assurance, is to find a buddy so you can look through each other's code and give feedback.
+
+ 
+
+Full website with a menu for a café / restaurant
+
+Create a simple webpage with a menu for a café / restaurant.
+It should contain at least seven dishes, between three courses (f.ex. 'lunch', 'dinner' and 'snacks').
+Several dishes should contain different allergens – and these must be easy for a casual reader to spot and understand.
+Main ingredients or description for each dish
+Example: 
+Dish name: Entrecote a la Frydenlund
+Description: Entrecote served with hashed potatoes, vegetables, and our Frydenlund beer-sauce [Milk/Lactose]
+Easy to find opening hours, location and contact information
+ 
+
+For an idea of how not to do accessible design, see https://www.elvebreddenkafe.no/menu/ (Links to an external site.)Links to an external site.
+
+(But feel free to copy dishes, hours, and contact details from this page.) 
+
+
+After you are done, and the page is up and running, submit it to an automated WCAG testing site, f.ex. WAVE Web Accessibility Evaluation Tool (webaim.org)Links to an external site.
+
+
+Based on the feedback you get, create a second version, and link them together so that we can see the difference.
+
+ 
+
+Good luck!
