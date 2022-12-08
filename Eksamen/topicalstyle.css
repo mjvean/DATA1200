@@ -1,0 +1,40 @@
+.Header1{
+  margin-top: 45px;
+  margin-left: 10px;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 30px;
+}
+.paragraph{
+  margin-top: 25px;
+  margin-left: 10px;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 20px;;
+}
+.navigation{
+  color: black;
+  background-color: white;
+  font-family: "Century Gothic";
+  font-size: 15px;
+  text-decoration: none;
+  -webkit-text-stroke-color:#000;
+  -webkit-text-stroke-width: 0.5px;
+}
+.credit{
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 10px;
+  margin-left: 0.5%;
+}
+.credit1{
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 10px;
+  padding-left: 50%;
+}
+
+a:link {
+  color:palegoldenrod;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {text-decoration: none}
+a:hover {text-decoration: none}
+a:active {text-decoration: none}
